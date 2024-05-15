@@ -16,19 +16,11 @@ We also welcome people who work on machine learning with the flavour of visual d
 We expect from this community is that we can circulate brilliant ideas among Indonesian researchers and connect to discuss state-of-the-arts in Computer Vision and Machine Learning. Publications in reputable Computer Vision or Machine Learning conferences are highly desired as an output of this endeavour. Some reputable venues to publish your research and find state-of-the-art papers: CVPR, ICCV, ECCV, ICLR, ICML, Neurips, WACV, and BMVC. 
 
 ## Featured Repositories
-
 ### 1. [Awesome Indonesia Vision Research - Conference Edition](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference)
-
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select conferences that have a rank of A and A* in CORE Conference Portal.
 
 ### 2. [Awesome Indonesia Vision Research - Journal Edition](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-journal)
-
 A curated list of resources dedicated to research papers published by Indonesians at top international journals.
 
-### 3. [Awesome Face Swapping](https://github.com/indonesia-vision-ai/awesome-face-swapping)
-
-Discover the world of face swapping through this curated list of research papers. Explore the innovative technologies and breakthroughs in the field.
-
 ## Get Involved
-
 Feel free to contribute, provide feedback, or suggest improvements. We value collaboration and welcome your participation in advancing vision AI in Indonesia.
